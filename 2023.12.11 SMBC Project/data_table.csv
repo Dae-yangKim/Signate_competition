@@ -1,0 +1,22 @@
+index,dtype,nunique,nan,index,dtype,nunique,nan
+Unnamed: 0,int64,19984,0,Unnamed: 0,int64,19702,0
+created_at,object,447,0,created_at,object,447,0
+tree_dbh,int64,42,0,tree_dbh,int64,44,0
+curb_loc,object,2,0,curb_loc,object,2,0
+steward,object,3,14883,steward,object,3,14526
+guards,object,3,14943,guards,object,3,14567
+sidewalk,object,2,0,sidewalk,object,2,0
+user_type,object,3,0,user_type,object,3,0
+problems,object,73,12243,problems,object,73,12045
+spc_common,object,120,0,spc_common,object,118,0
+spc_latin,object,120,0,spc_latin,object,118,0
+nta,object,187,0,nta,object,184,0
+nta_name,object,187,0,nta_name,object,184,0
+borocode,int64,5,0,borocode,int64,5,0
+boro_ct,int64,1193,0,boro_ct,int64,971,0
+boroname,object,5,0,boroname,object,5,0
+zip_city,object,45,0,zip_city,object,45,0
+cb_num,int64,59,0,cb_num,int64,59,0
+st_senate,int64,26,0,st_senate,int64,26,0
+st_assem,int64,65,0,st_assem,int64,65,0
+cncldist,int64,51,0,cncldist,int64,51,0
